@@ -1,6 +1,6 @@
 import { trigger } from '../lib/connector.js';
-import { each, toArray } from '../lib/util.js';
 import * as stringifyObj from '../lib/stringifyObj.js';
+import { each, toArray } from 'https://lsong.org/scripts/array.js';
 
 const global = {
   copy(value) {
