@@ -14,3 +14,7 @@ export const getInlineStylesForNode = () => {
 export const getComputedStyleForNode = () => {
     
 };
+
+export const getPlatformFontsForNode = () => {
+    
+};
