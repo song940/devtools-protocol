@@ -1,0 +1,20 @@
+{
+  "name": "devtools-protocol",
+  "version": "0.0.0",
+  "description": "",
+  "main": "devtools.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "devtools-protocol"
+  ],
+  "author": "Lsong <song940@gmail.com> (https://lsong.org/)",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.36.1"
+  }
+}
